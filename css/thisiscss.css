@@ -1,6 +1,7 @@
 body {
     background: 000000;
     margin: 0;
+        /* can not scroll the page with the mouse wheel */
     overflow: hidden;
 }
 
