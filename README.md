@@ -5,5 +5,4 @@
 <br style="color:rgb(123,56,104)">Game have THREE different diffculties to select.<br>
 <br><b><a href="" target="_blank">Click here to start this Game</a></br></b>
 
-// dose not support color styling
 
