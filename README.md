@@ -3,5 +3,5 @@
 
 <br><span style="color:orange;">Game is using the keyborad right and left key to control a paddle at buttom side of screen.</br></span>
 <br style="color:rgb(123,56,104)">Game have THREE different diffculties to select.<br>
-<br><a href="" target="_blank">Click here to start the Game</a></br>
+<br><b><a href="" target="_blank">Click here to start the Game</a></br></b>
 
