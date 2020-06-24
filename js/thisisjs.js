@@ -132,12 +132,12 @@ function SetD(type) {
         for (let i = 0; i < type; i++) {
             let ball = new Ball(
                 // setting random ball appears at canvas x-axis, min 40, max canvas width
-                random(40, width),
+                random(89, width),
                 // setting random ball appears at canvas y axis, min 40, max 100
                 // giving more space till ball falls to buttom
                 // fixed bug > ball size is too big
                 // changing y axis 100 - 200
-                random(40, 200),
+                random(89, 200),
                 // x axis speed
                 v + i, 
                 // y axis speed
