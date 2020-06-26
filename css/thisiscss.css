@@ -32,6 +32,7 @@ body {
     background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
     background-size: 400%;
     z-index: 1;
+    outline: none;
 }
 
 .btn1:hover {
@@ -103,10 +104,11 @@ h1:after {
     box-sizing: border-box;
     background-size: 400%;
     z-index: 1;
+    outline: none;
 }
 
 .btn3 {
-    width: 400px;
+    width: 250px;
     text-align: center;
     line-height: 60px;
     color: aquamarine;
@@ -120,4 +122,5 @@ h1:after {
     background: none;
     cursor: pointer;
     border: 1px solid aquamarine;
+    outline: none;
 }
